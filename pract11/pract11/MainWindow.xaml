@@ -1,0 +1,35 @@
+﻿<Window x:Class="pract11.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:pract11"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="550" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="200"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <DockPanel Grid.ColumnSpan="2">
+        <StackPanel Margin="75,0,0,0">
+            <Label Margin="0,40,0,0" FontSize="15">Количество строк:</Label>
+            <Label Margin="0,10,0,0" FontSize="15">Количество столбцов:</Label>
+        </StackPanel>
+        <StackPanel Margin="30,0,0,0" HorizontalAlignment="Left" Width="120">
+            <TextBox x:Name="rowsBox" Margin="0,40,0,0" Height="30" Width="60" HorizontalAlignment="Left"></TextBox>
+            <TextBox x:Name="columnsBox" Margin="0,10,0,0" Height="30" Width="60" HorizontalAlignment="Left"></TextBox>
+        </StackPanel>
+        </DockPanel>
+        <Button x:Name="showMatrix" Grid.Column="1" Grid.ColumnSpan="2" VerticalAlignment="Bottom" Height="40" Width="275" FontSize="18" Click="showMatrix_Click">Показать матрицу</Button>
+        <ScrollViewer Grid.Row="1" Grid.ColumnSpan="4" HorizontalScrollBarVisibility="Visible">
+            <TextBox x:Name="matrixBox" FontSize="20"></TextBox>
+        </ScrollViewer>
+    </Grid>
+</Window>

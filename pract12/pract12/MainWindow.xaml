@@ -1,0 +1,26 @@
+﻿<Window x:Class="pract12.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:pract12"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="600" Width="650">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="120"/>
+            <RowDefinition/>
+            <RowDefinition Height="30"/>
+        </Grid.RowDefinitions>
+        <StackPanel VerticalAlignment="Center">
+            <Label FontSize="15" HorizontalAlignment="Center" Margin="0,0,0,25">Введите количество строк квадратичной матрицы:</Label>
+            <DockPanel Height="30">
+                <TextBox DockPanel.Dock="Left" Width="125" x:Name="numberOfRows" Margin="150,0,0,0"></TextBox>
+                <Button x:Name="showMatrix" Width="125" HorizontalAlignment="Right" FontSize="20" Margin="0,0,150,0" Click="showMatrix_Click">Ввести</Button>
+            </DockPanel>
+        </StackPanel>
+        <GridSplitter Grid.Row="1" VerticalAlignment="Top" Height="1" ShowsPreview="True" HorizontalAlignment="Stretch" Background="Black"></GridSplitter>
+        <TextBlock x:Name="matrix" Grid.Row="1" Height="464.04" TextAlignment="Center" FontSize="25"></TextBlock>
+        <Label x:Name="mainDiagonal" Grid.Row="2"></Label>
+    </Grid>
+</Window>

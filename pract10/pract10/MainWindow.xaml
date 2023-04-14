@@ -1,0 +1,38 @@
+﻿<Window x:Class="pract10.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:pract10"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="250" Width="350">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Label Grid.Column="0">Число:</Label>
+        <TextBox x:Name="numBox" Grid.Column="1" Height="25" VerticalAlignment="Top"></TextBox>
+        <DockPanel Grid.Row="1" Grid.RowSpan="2" Grid.ColumnSpan="2">
+        <StackPanel Width="175">
+            <Label>Условия:</Label>
+                <CheckBox x:Name="moreTh0" Margin="0,5,0,0" Checked="moreTh0_Checked">&gt; 0</CheckBox>
+                <CheckBox x:Name="lessTh100" Margin="0,5,0,0">&lt; 100</CheckBox>
+        </StackPanel>
+            <StackPanel Height="92.02" VerticalAlignment="Bottom">
+                <CheckBox x:Name="evenCH" Margin="0,5,0,0">четное</CheckBox>
+                <CheckBox x:Name="dividedBy3CH" Margin="0,5,0,0">делится на 3</CheckBox>
+            </StackPanel>
+        </DockPanel>
+        <Label Grid.Row="2" VerticalAlignment="Bottom">Результат:</Label>
+        <TextBox x:Name="resultText" Grid.Row="2" Grid.Column="1" VerticalAlignment="Bottom" Height="25"></TextBox>
+        <Button x:Name="resultButton" Grid.Row="3" Height="25" Width="100" VerticalAlignment="Center" Click="resultButton_Click">Проверить</Button>
+        <Button x:Name="CloseProg" Grid.Row="3" Grid.Column="1" Height="25" Width="110" Click="CloseProg_Click">Закончить работу</Button>
+    </Grid>
+</Window>

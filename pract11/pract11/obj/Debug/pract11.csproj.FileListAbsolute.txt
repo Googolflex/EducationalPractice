@@ -1,0 +1,16 @@
+D:\C# projects\WPF\pract11\pract11\bin\Debug\pract11.exe.config
+D:\C# projects\WPF\pract11\pract11\bin\Debug\pract11.exe
+D:\C# projects\WPF\pract11\pract11\bin\Debug\pract11.pdb
+D:\C# projects\WPF\pract11\pract11\obj\Debug\pract11.csproj.AssemblyReference.cache
+D:\C# projects\WPF\pract11\pract11\obj\Debug\pract11.csproj.SuggestedBindingRedirects.cache
+D:\C# projects\WPF\pract11\pract11\obj\Debug\MainWindow.g.cs
+D:\C# projects\WPF\pract11\pract11\obj\Debug\App.g.cs
+D:\C# projects\WPF\pract11\pract11\obj\Debug\pract11_MarkupCompile.cache
+D:\C# projects\WPF\pract11\pract11\obj\Debug\pract11_MarkupCompile.lref
+D:\C# projects\WPF\pract11\pract11\obj\Debug\MainWindow.baml
+D:\C# projects\WPF\pract11\pract11\obj\Debug\pract11.g.resources
+D:\C# projects\WPF\pract11\pract11\obj\Debug\pract11.Properties.Resources.resources
+D:\C# projects\WPF\pract11\pract11\obj\Debug\pract11.csproj.GenerateResource.cache
+D:\C# projects\WPF\pract11\pract11\obj\Debug\pract11.csproj.CoreCompileInputs.cache
+D:\C# projects\WPF\pract11\pract11\obj\Debug\pract11.exe
+D:\C# projects\WPF\pract11\pract11\obj\Debug\pract11.pdb

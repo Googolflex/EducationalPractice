@@ -1,0 +1,32 @@
+D:\C# projects\WPF\pract9\pract9\bin\Debug\pract9.exe.config
+D:\C# projects\WPF\pract9\pract9\bin\Debug\pract9.exe
+D:\C# projects\WPF\pract9\pract9\bin\Debug\pract9.pdb
+D:\C# projects\WPF\pract9\pract9\obj\Debug\pract9.csproj.AssemblyReference.cache
+D:\C# projects\WPF\pract9\pract9\obj\Debug\pract9.csproj.SuggestedBindingRedirects.cache
+D:\C# projects\WPF\pract9\pract9\obj\Debug\MainWindow.g.cs
+D:\C# projects\WPF\pract9\pract9\obj\Debug\App.g.cs
+D:\C# projects\WPF\pract9\pract9\obj\Debug\pract9_MarkupCompile.cache
+D:\C# projects\WPF\pract9\pract9\obj\Debug\pract9_MarkupCompile.lref
+D:\C# projects\WPF\pract9\pract9\obj\Debug\MainWindow.baml
+D:\C# projects\WPF\pract9\pract9\obj\Debug\pract9.g.resources
+D:\C# projects\WPF\pract9\pract9\obj\Debug\pract9.Properties.Resources.resources
+D:\C# projects\WPF\pract9\pract9\obj\Debug\pract9.csproj.GenerateResource.cache
+D:\C# projects\WPF\pract9\pract9\obj\Debug\pract9.csproj.CoreCompileInputs.cache
+D:\C# projects\WPF\pract9\pract9\obj\Debug\pract9.exe
+D:\C# projects\WPF\pract9\pract9\obj\Debug\pract9.pdb
+C:\Users\googo\OneDrive\Рабочий стол\Практические задания 9-12 (Головин, Ведерников)\pract9\pract9\bin\Debug\pract9.exe.config
+C:\Users\googo\OneDrive\Рабочий стол\Практические задания 9-12 (Головин, Ведерников)\pract9\pract9\bin\Debug\pract9.exe
+C:\Users\googo\OneDrive\Рабочий стол\Практические задания 9-12 (Головин, Ведерников)\pract9\pract9\bin\Debug\pract9.pdb
+C:\Users\googo\OneDrive\Рабочий стол\Практические задания 9-12 (Головин, Ведерников)\pract9\pract9\obj\Debug\pract9.csproj.AssemblyReference.cache
+C:\Users\googo\OneDrive\Рабочий стол\Практические задания 9-12 (Головин, Ведерников)\pract9\pract9\obj\Debug\pract9.csproj.SuggestedBindingRedirects.cache
+C:\Users\googo\OneDrive\Рабочий стол\Практические задания 9-12 (Головин, Ведерников)\pract9\pract9\obj\Debug\MainWindow.g.cs
+C:\Users\googo\OneDrive\Рабочий стол\Практические задания 9-12 (Головин, Ведерников)\pract9\pract9\obj\Debug\App.g.cs
+C:\Users\googo\OneDrive\Рабочий стол\Практические задания 9-12 (Головин, Ведерников)\pract9\pract9\obj\Debug\pract9_MarkupCompile.cache
+C:\Users\googo\OneDrive\Рабочий стол\Практические задания 9-12 (Головин, Ведерников)\pract9\pract9\obj\Debug\pract9_MarkupCompile.lref
+C:\Users\googo\OneDrive\Рабочий стол\Практические задания 9-12 (Головин, Ведерников)\pract9\pract9\obj\Debug\MainWindow.baml
+C:\Users\googo\OneDrive\Рабочий стол\Практические задания 9-12 (Головин, Ведерников)\pract9\pract9\obj\Debug\pract9.g.resources
+C:\Users\googo\OneDrive\Рабочий стол\Практические задания 9-12 (Головин, Ведерников)\pract9\pract9\obj\Debug\pract9.Properties.Resources.resources
+C:\Users\googo\OneDrive\Рабочий стол\Практические задания 9-12 (Головин, Ведерников)\pract9\pract9\obj\Debug\pract9.csproj.GenerateResource.cache
+C:\Users\googo\OneDrive\Рабочий стол\Практические задания 9-12 (Головин, Ведерников)\pract9\pract9\obj\Debug\pract9.csproj.CoreCompileInputs.cache
+C:\Users\googo\OneDrive\Рабочий стол\Практические задания 9-12 (Головин, Ведерников)\pract9\pract9\obj\Debug\pract9.exe
+C:\Users\googo\OneDrive\Рабочий стол\Практические задания 9-12 (Головин, Ведерников)\pract9\pract9\obj\Debug\pract9.pdb
