@@ -1,0 +1,16 @@
+D:\C# projects\WPF\pract20.5.1\pract20.5.1\bin\Debug\pract20.5.1.exe.config
+D:\C# projects\WPF\pract20.5.1\pract20.5.1\bin\Debug\pract20.5.1.exe
+D:\C# projects\WPF\pract20.5.1\pract20.5.1\bin\Debug\pract20.5.1.pdb
+D:\C# projects\WPF\pract20.5.1\pract20.5.1\obj\Debug\pract20.5.1.csproj.AssemblyReference.cache
+D:\C# projects\WPF\pract20.5.1\pract20.5.1\obj\Debug\pract20.5.1.csproj.SuggestedBindingRedirects.cache
+D:\C# projects\WPF\pract20.5.1\pract20.5.1\obj\Debug\MainWindow.g.cs
+D:\C# projects\WPF\pract20.5.1\pract20.5.1\obj\Debug\App.g.cs
+D:\C# projects\WPF\pract20.5.1\pract20.5.1\obj\Debug\pract20.5.1_MarkupCompile.cache
+D:\C# projects\WPF\pract20.5.1\pract20.5.1\obj\Debug\pract20.5.1_MarkupCompile.lref
+D:\C# projects\WPF\pract20.5.1\pract20.5.1\obj\Debug\MainWindow.baml
+D:\C# projects\WPF\pract20.5.1\pract20.5.1\obj\Debug\pract20.5.1.g.resources
+D:\C# projects\WPF\pract20.5.1\pract20.5.1\obj\Debug\pract20._5._1.Properties.Resources.resources
+D:\C# projects\WPF\pract20.5.1\pract20.5.1\obj\Debug\pract20.5.1.csproj.GenerateResource.cache
+D:\C# projects\WPF\pract20.5.1\pract20.5.1\obj\Debug\pract20.5.1.csproj.CoreCompileInputs.cache
+D:\C# projects\WPF\pract20.5.1\pract20.5.1\obj\Debug\pract20.5.1.exe
+D:\C# projects\WPF\pract20.5.1\pract20.5.1\obj\Debug\pract20.5.1.pdb
