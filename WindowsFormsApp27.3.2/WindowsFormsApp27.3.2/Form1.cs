@@ -21,7 +21,7 @@ namespace WindowsFormsApp27._3._2
 
             Timer tm = new Timer();
             tm.Tick += new EventHandler(tm_Tick);
-            tm.Interval = 1;
+            tm.Interval = 100;
             tm.Start();
         }
         public void tm_Tick(object sender, EventArgs e)

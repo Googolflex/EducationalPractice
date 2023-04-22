@@ -9,3 +9,14 @@ D:\C# projects\WinForm\WindowsFormsApp27.3.2\WindowsFormsApp27.3.2\obj\Debug\Win
 D:\C# projects\WinForm\WindowsFormsApp27.3.2\WindowsFormsApp27.3.2\obj\Debug\WindowsFormsApp27.3.2.csproj.CoreCompileInputs.cache
 D:\C# projects\WinForm\WindowsFormsApp27.3.2\WindowsFormsApp27.3.2\obj\Debug\WindowsFormsApp27.3.2.exe
 D:\C# projects\WinForm\WindowsFormsApp27.3.2\WindowsFormsApp27.3.2\obj\Debug\WindowsFormsApp27.3.2.pdb
+F:\PractGit\EducationalPractice\WindowsFormsApp27.3.2\WindowsFormsApp27.3.2\bin\Debug\WindowsFormsApp27.3.2.exe.config
+F:\PractGit\EducationalPractice\WindowsFormsApp27.3.2\WindowsFormsApp27.3.2\bin\Debug\WindowsFormsApp27.3.2.exe
+F:\PractGit\EducationalPractice\WindowsFormsApp27.3.2\WindowsFormsApp27.3.2\bin\Debug\WindowsFormsApp27.3.2.pdb
+F:\PractGit\EducationalPractice\WindowsFormsApp27.3.2\WindowsFormsApp27.3.2\obj\Debug\WindowsFormsApp27.3.2.csproj.AssemblyReference.cache
+F:\PractGit\EducationalPractice\WindowsFormsApp27.3.2\WindowsFormsApp27.3.2\obj\Debug\WindowsFormsApp27.3.2.csproj.SuggestedBindingRedirects.cache
+F:\PractGit\EducationalPractice\WindowsFormsApp27.3.2\WindowsFormsApp27.3.2\obj\Debug\WindowsFormsApp27._3._2.Form1.resources
+F:\PractGit\EducationalPractice\WindowsFormsApp27.3.2\WindowsFormsApp27.3.2\obj\Debug\WindowsFormsApp27._3._2.Properties.Resources.resources
+F:\PractGit\EducationalPractice\WindowsFormsApp27.3.2\WindowsFormsApp27.3.2\obj\Debug\WindowsFormsApp27.3.2.csproj.GenerateResource.cache
+F:\PractGit\EducationalPractice\WindowsFormsApp27.3.2\WindowsFormsApp27.3.2\obj\Debug\WindowsFormsApp27.3.2.csproj.CoreCompileInputs.cache
+F:\PractGit\EducationalPractice\WindowsFormsApp27.3.2\WindowsFormsApp27.3.2\obj\Debug\WindowsFormsApp27.3.2.exe
+F:\PractGit\EducationalPractice\WindowsFormsApp27.3.2\WindowsFormsApp27.3.2\obj\Debug\WindowsFormsApp27.3.2.pdb
